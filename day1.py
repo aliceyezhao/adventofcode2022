@@ -19,7 +19,7 @@ def part2():
     rations.remove(max3)
     return max1 + max2 + max3
 
-if __name__=="__main__":
+if __name__== "__main__":
     print("Max rations is: ", part1())
     print("Top 3 rations together is: ", part2())
 
